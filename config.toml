@@ -1,0 +1,37 @@
+languageCode = "en-us"
+title = "Teknofire.net"
+baseurl = "http://teknofire.net/"
+theme = "aerial"
+
+[params]
+  name = "Will Fisher"
+  about = "Technical Services Manager &nbsp;&bull;&nbsp; Geek"
+  copyright = "2017 Will Fisher"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "@teknofire"
+
+#[[params.social]]
+#  medium = "Facebook"
+#  icon = "facebook"
+#  link = "#"
+
+#[[params.social]]
+#  medium = "Dribbble"
+#  icon = "dribbble"
+#  link = "#"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "teknofire"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "will@teknofire.net"
