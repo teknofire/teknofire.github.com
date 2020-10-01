@@ -15,8 +15,8 @@ theme = "hugo-identity-theme"
 
 [params]
   name = "Will Fisher"
-  about = "Technical Services Manager &nbsp;&bull;&nbsp; Geek"
-  copyright = "2017 Will Fisher"
+  about = "Customer Engineer at Chef Software&nbsp;&bull;&nbsp; Geek"
+  copyright = "2017-2020 Will Fisher"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
   favicon = "favicon.ico"
@@ -51,7 +51,7 @@ theme = "hugo-identity-theme"
     name = "Will Fisher"
     # Avatars can be written to images/avatars/
     avatar = "will.jpeg"
-    position = "Lead Developer/Technical Services Manager"
+    position = "Customer Engineer at Chef Software"
     livesIn = ""
     scope = [
         ""
